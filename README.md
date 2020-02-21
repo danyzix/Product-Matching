@@ -7,4 +7,4 @@ The second notebook contains the preparation of retailer and manufacturer mapped
 
 Third notebook is a baseline model using TF-IDF to calculate the accuracy of the model.
 
-Fourth notebook uses a Neural Machine Translation approach to transform retailer texts to manufacturer text format to match the most similar product.
+Fourth notebook uses a LSTM encoder-decoder framework to develop an Information Retrieval system to match retailer text to  manufacturer text to recommend similar products.
