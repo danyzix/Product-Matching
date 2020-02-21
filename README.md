@@ -1,7 +1,7 @@
 # Product-Matching
 This repository tackles the task of product-matching using various NLP approaches.
 
-The first notebook prepared retailer online data from a web-scrapping tool of more than seventy thousand webpages.
+The first notebook prepares retailer online data from a web-scrapping tool of more than seventy thousand webpages.
 
 The second notebook contains the preparation of retailer and manufacturer mapped data for further modelling.
 
